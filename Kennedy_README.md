@@ -163,10 +163,10 @@ The refinement strategy can significantly reduce computational cost compared wit
 
 ## References
 
-Tom Kennedy,
+Tom Kennedy, 2009 
 
 > Numerical Computations for the Schramm–Loewner Evolution
 
-arXiv:0909.2438
+https://arxiv.org/abs/0909.2438
 
 This implementation is based primarily on the adaptive refinement strategy and vertical slit discretization described in the paper.
