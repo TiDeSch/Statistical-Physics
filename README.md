@@ -44,6 +44,7 @@ Ginzburg-Landau free energy, described by double well potential.
 ----------------------------------------------------
 
 Field theory continuum model simmulations:
+
     Passive models:
         Model A (Cahn Hillard)
         Model B (Cahn Hillard)
@@ -64,6 +65,7 @@ Field theory continuum model simmulations:
 ----------------------------------------------------
 
 Conserved active models. All parallelized.
+
     Active Model B+ (Cahn Hillard)
     Active Model H (Cahn Hillard) 
     Potts Model B
