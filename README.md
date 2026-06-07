@@ -89,3 +89,9 @@ Left-Passage Probability(LPP) plot over different \kappa values.
 Visualise frames from data. 
 
 ----------------------------------------------------
+
+Generate real space height maps based on kappa values.
+
+The isolines/contours will follow SLE{kappa}. 
+
+----------------------------------------------------
