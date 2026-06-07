@@ -79,13 +79,13 @@ exceeds a prescribed threshold `eps`. New midpoint driving values are generated 
 
 Typical SLE values:
 
-| κ   |                         |
-| --- | ----------------------- |
-| 2   | Loop-erased random walk |
-| 8/3 | Self-avoiding walk      |
-| 4   | Critical transition     |
-| 6   | Critical percolation    |
-| 8   | Space-filling curve     |
+| \kappa |                         |
+| ---    | ----------------------- |
+|   2    | Loop-erased random walk |
+|   8/3  | Self-avoiding walk      |
+|   4    | Critical transition     |
+|   6    | Critical percolation    |
+|   8    | Space-filling curve     |
 
 ---
 
