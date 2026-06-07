@@ -7,7 +7,6 @@ Based on Kennedy 2009 (https://arxiv.org/abs/0909.2438).
 
 See Kennedy_README.md for more comprehensive description.
 
-
 ----------------------------------------------------
 
 A main.py script to control all the analysis scripts. 
