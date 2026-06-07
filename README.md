@@ -16,24 +16,23 @@ The scrpts for analysis and plotting are seperated.
 Scripts are enabled by True/False. 
 
 The isolines/contours are extracted from field using Extract_isolines.py
+    Field analysis:
+        Structure Factor
+        Autocorrelation
+        Radius of Gyration
+        Field PDF
 
-Field analysis:
-    Structure Factor
-    Autocorrelation
-    Radius of Gyration
-    Field PDF
+    Geometrical analysis of interfaces:
+        Yardstick method
+        Winding Statistics
 
-Geometrical analysis of interfaces:
-    Yardstick method
-    Winding Statistics
-
-SLE analysis of interfaces:
-Driving function statistics and LPP require transformation onto the upper half plane.
-Used Schwarz-Christoffel transformation.
-    Variance Driving function 
-    Driving function PDF
-    Left-Passage Probability
-    Test for Markov process by Correlation
+    SLE analysis of interfaces:
+    Driving function statistics and LPP require transformation onto the upper half plane.
+    Used Schwarz-Christoffel transformation.
+        Variance Driving function 
+        Driving function PDF
+        Left-Passage Probability
+        Test for Markov process by Correlation
 
 ----------------------------------------------------
 
