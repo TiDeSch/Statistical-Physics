@@ -14,8 +14,8 @@ A main.py script to control all the analysis scripts.
 Contain both field, geometrical and SLE analysis.
 The scrpts for analysis and plotting are seperated.
 Scripts are enabled by True/False. 
-
 The isolines/contours are extracted from field using Extract_isolines.py
+
     Field analysis:
         Structure Factor
         Autocorrelation
